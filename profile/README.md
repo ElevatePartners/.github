@@ -1,4 +1,4 @@
-# Hi! We're Elevate Partners
+# :wave: Hi! We're Elevate Partners
 
 We're a group of developers working remotely for great companies in Australia and the USA
 
